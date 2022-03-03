@@ -2,7 +2,7 @@ import pygame
 from sys import exit
 from random import randint, choice
 
-#this code was used a training so it is very redundant and not clean
+#this code was used as a training so it is very redundant and not clean
 
 
 class Player(pygame.sprite.Sprite):
